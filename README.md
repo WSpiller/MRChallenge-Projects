@@ -1,7 +1,11 @@
 # Overview
 A collection of submitted material for the 2019 MR Data Challenge. The 2019 MR Data Challenge is a session presented at the 2019 Mendelian Randomization Conference, held at the University of Bristol. For more information on the conference, please visit the MR conference [website](https://www.mendelianrandomization.org.uk/).
 
-The report accompanying each project is available [here](https://github.com/WSpiller/MRChallenge-Projects/tree/master/Projects).
+The report accompanying each project is available for download [here](https://github.com/WSpiller/MRChallenge-Projects/tree/master/Projects).
+
+**A plenary session at 11:00 AM on Friday 19th July in lecture theatre 1 of the the Chemistry Complex at the University of Bristol, showcasing the submitted analyses.**
+
+A key aim of the session will be to bring together methodologists and statisticians with experts from epidemiology, medical and biological sciences, to comment and debate the results. The session will include presentations from subject matter experts on state-of-the-art lipids research; an overview of all analyses attempted at a meta-level; quickfire presentations from individuals and teams on their analysis; debate on the strengths and limitations of different methodological approaches.
 
 ---
 
