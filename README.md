@@ -77,6 +77,19 @@ The aim of this analysis is to assess the causal effects of three blood lipid fr
 ---
 
 
+## 4. Mendelian Randomization Analysis of the Effect of Blood Lipid Fractions on the Risk of Type 2 Diabetes.
+
+*Apostolos Gkatzionis<sup>1</sup>
+
+<sup>1</sup>MRC Biostatistics Unit, University of Cambridge
+
+### Project Summary
+
+The aim of this analysis is to assess the causal effects of three blood lipid fractions (LDLcholesterol, HDL-cholesterol and triglycerides) on the risk of suffering from type 2 diabetes. In parallel to that, we illustrate the use of the JAM-MR algorithm, a recentlyproposed algorithm for pleiotropy-robust Mendelian randomization using summary data.
+
+---
+
+
 
 
 
