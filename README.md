@@ -66,7 +66,7 @@ will be subject to weak instrument bias.
 
 ## 3. Mendelian Randomization Analysis of the Effect of Blood Lipid Fractions on the Risk of Type 2 Diabetes.
 
-*Apostolos Gkatzionis<sup>1</sup>
+*Apostolos Gkatzionis<sup>1</sup>*
 
 <sup>1</sup>MRC Biostatistics Unit, University of Cambridge
 
@@ -77,17 +77,27 @@ The aim of this analysis is to assess the causal effects of three blood lipid fr
 ---
 
 
-## 4. Mendelian Randomization Analysis of the Effect of Blood Lipid Fractions on the Risk of Type 2 Diabetes.
+## 4. HDL and age-related macular degeneration
 
-*Apostolos Gkatzionis<sup>1</sup>
+*Chin Yang Shapland<sup>1</sup>*
 
-<sup>1</sup>MRC Biostatistics Unit, University of Cambridge
+<sup>1</sup>MRC Integrative Epidemiology Unit, Univerity of Bristol.
 
 ### Project Summary
 
-The aim of this analysis is to assess the causal effects of three blood lipid fractions (LDLcholesterol, HDL-cholesterol and triglycerides) on the risk of suffering from type 2 diabetes. In parallel to that, we illustrate the use of the JAM-MR algorithm, a recentlyproposed algorithm for pleiotropy-robust Mendelian randomization using summary data.
+Age-related macular degeneration (AMD) is a painless eye-disease that eventually leads to vision loss. A
+GWAS have identified several rare and common variants located in gene regions that are associated with lipid
+levels (Fritsche et al. 2016). And later the reason for association was speculated and confirmed by separate
+studies (Leeuwen et al. 2018, J. Colijn et al. (2018)). Multivariable MR study showed evidence of a causal
+relationship between AMD and HDL cholesterol but not with LDL cholesterol and triglycerides (Burgess and
+Smith 2017). Following a Bayesian model averaging approach within a multivariable MR design, out of 30
+metabolites, total cholesterol in extra-large HDL particles (XL.HDL.C) had the highest inclusion posterior
+probability as a risk factor for AMD (Zuber et al. 2019). With the same summary data used in (Zuber et al.
+2019), we aim to find valid genetic instruments to infer causality between XL.HDL.C and AMD.
 
 ---
+
+
 
 
 
