@@ -76,7 +76,6 @@ The aim of this analysis is to assess the causal effects of three blood lipid fr
 
 ---
 
-
 ## 4. HDL and age-related macular degeneration
 
 *Chin Yang Shapland<sup>1</sup>*
@@ -97,7 +96,7 @@ probability as a risk factor for AMD (Zuber et al. 2019). With the same summary 
 
 ---
 
-## 5. HDL and age-related macular degeneration
+## 5. Improving reliability of MR studies testing the effect of molecular phenotypes
 
 *Maria Carolina Borges<sup>1</sup><sup>2</sup>, Philip Haycock<sup>1</sup><sup>2</sup>, Aroon Hingorani<sup>3</sup><sup>4</sup>, and Deborah Lawlor<sup>1</sup><sup>2</sup>*
 
@@ -125,7 +124,23 @@ We propose a framework combining methods developed within and outside the MR com
 
 ---
 
+## 6. Investigating the Causal Effect of LDL and HDL on Ischemic Stroke
 
+*Okezie Uche-Ikonne<sup>1</sup>, Michael Holmes<sup>2</sup>, Frank Dondelinger<sup>3</sup>, and Tom Palmer<sup>1</sup>*
+
+<sup>1</sup> Department of Mathematics and Statistics, Lancaster University, Lancaster, UK
+
+<sup>2</sup> Medical Research Council Population Health Research Unit, University of Oxford, Oxford, UK
+
+<sup>3</sup> Faculty of Health and Medicine, Lancaster University, Lancaster, UK
+
+### Project Summary
+
+There has been considerable research on the role of blood lipids and their associations with various cardiovascular traits (Holmes and Davey Smith 2018). While observational analyses have led to naïve classifications of “good” (higher density lipoprotein, HDL) and “bad” (lower density lipoprotein, LDL) blood lipids, the underlying causal relationships suggest that while LDL and triglycerides may have atherogenic characteristics, HDL-cholesterol is unlikely to play an important role in atherogenesis.
+
+The MR Data Challenge provides a summary level dataset by which contains the associations of genotypes (comprising 148 SNPs) with lipid traits and the associations of genotypes with 7 outcomes (W. Spiller, Bowden, and Zuber 2019). Of the seven outcomes, we selected ischemic stroke to investigate the casual relationship of LDL and HDL lipid traits using the Mendelian randomization (MR) approach (Davey Smith and Ibrahim 2003).
+
+---
 
 
 
