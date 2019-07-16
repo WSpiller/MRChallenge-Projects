@@ -142,7 +142,23 @@ The MR Data Challenge provides a summary level dataset by which contains the ass
 
 ---
 
+## 7. Examining heterogeneity in effect estimates of HDL-C upon CAD and potential biological mechanisms
 
+*Daniel Long<sup>1</sup>, and Qingyuan Zhao<sup>2</sup>*
+
+<sup>1</sup>University of Michigan Department of Statistics
+
+<sup>2</sup>Department of Statistics, Wharton School, University of Pennsylvania
+
+### Project Summary
+
+HDL are heterogeneous subpopulations of discrete particles that differ in apolipoprotein and lipid composition. Previous Mendelian randomization (MR) studies reported heterogeneous associations between genetically determined HDL cholesterol (HDL-C) and coronary artery disease (CAD) (Voight et al. 2012; Zhao et al. 2018). Our research questions are:
+
+* Which groups of genetic instruments yield similiar causal effect estimates of HDL-C on risk for CAD?
+
+* Can these groups be linked to distinct biological mechanisms using GWAS data for the lipoprotein subfractions?
+
+---
 
 
 
