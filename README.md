@@ -97,7 +97,33 @@ probability as a risk factor for AMD (Zuber et al. 2019). With the same summary 
 
 ---
 
+## 5. HDL and age-related macular degeneration
 
+*Maria Carolina Borges<sup>1</sup><sup>2</sup>, Philip Haycock<sup>1</sup><sup>2</sup>, Aroon Hingorani<sup>3</sup><sup>4</sup>, and Deborah Lawlor<sup>1</sup><sup>2</sup>*
+
+<sup>1</sup>MRC Integrative Epidemiology Unit, Univerity of Bristol.
+
+<sup>2</sup>Population Health Sciences, Bristol Medical School, University of Bristol, Bristol, UK
+
+<sup>3</sup>UCL Institute of Cardiovascular Science, University College London, London, UK
+
+<sup>4</sup>MRC Farr Institute, University College London, London, UK
+
+### Project Summary
+
+One major limitation of Mendelian randomization (MR) is the unprovable assumption that the association between genetic instrument and outcome is entirely mediated by the exposure and not by direct effects of the genetic instrument. A large proportion of recently developed methods aim at accounting for spurious pleiotropy to improve the reliability of MR results. However, these methods ideally require that many genetic instruments for the exposure are available, which is often not the case when the exposure is a molecular phenotype.
+
+In the context of MR, spurious pleiotropy can arise from three main scenarios:
+
+* **Counfounding by linkage disequilibrium**: the genetic instrument influences the exposure and is correlated (i.e. in linkage disequilibrium) with another genetic variant that influences the outcome independently.
+
+* **Reverse causation**: the genetic instrument primarily influences the outcome, which subsequently affects the exposure.)
+
+* **Horizontal pleiotropy**: the genetic instrument influences exposure and outcome via two independent biological pathways.
+
+We propose a framework combining methods developed within and outside the MR community to explore robustness of MR findings to spurious pleiotropy when only one or a few genetic instruments are available for a particular exposure.
+
+---
 
 
 
