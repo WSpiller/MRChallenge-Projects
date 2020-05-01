@@ -1,0 +1,27 @@
+---
+title: Project 2
+---
+
+* The pdf can be viewed [here](./Projects/Project2.pdf).
+
+## 2. Testing instrument strength in two-sample MVMR estimation of lipid traits on AMD and Type 2 diabetes.
+
+*Eleanor Sanderson<sup>1</sup>, and  Jack Bowden<sup>1</sup>*
+
+<sup>1</sup>MRC Integrative Epidemiology Unit, Univerity of Bristol.
+
+### Project Summary
+
+One of the key assumptions of any Mendelian randomisation (MR) analysis is that the exposures are strongly
+predicted by the set of SNPs used as instruments. In multivariable MR (MVMR) this assumption requires
+that each exposure is strongly predicted by the SNPs included conditional on the predicted value of the
+other exposures in the model. Many of the traits considered in the NMR data here are associated with
+highly overlapping groups of SNPs and therefore it is particuarly important with data of this type to consider
+whether these exposures can be reliably predicted by the set of SNPs if multiple traits from this data are
+going to be included as exposures in an MVMR analysis.
+
+Here I consider whether multiple traits in this dataset can be predicted at the same time. If a group of
+exposures can all be strongly predicted by the set of SNPs then, assuming the other instrumental variable
+assumptions are satisfied, it will be possible to estimate the direct effect of each exposure on an outcome.
+However, if some or all of the exposures are weakly predicted then any MR analysis including those exposures
+will be subject to weak instrument bias.
