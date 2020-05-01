@@ -1,4 +1,5 @@
 name: "MRChallenge-Projects"
+output_dir: docs
 navbar:
   title: "MR Data Challenge 2019 Entries"
   left:
@@ -13,7 +14,7 @@ navbar:
     - text: "Project 4"
       href: project4.html
     - text: "Project 5"
-      href: ./Project5/Project5.html
+      href: ./Projects/Project5.html
     - text: "Project 6"
       href: ./Projects/Project6.html
     - text: "Project 7"
