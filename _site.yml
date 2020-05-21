@@ -14,7 +14,7 @@ navbar:
     - text: "Project 4"
       href: project4.html
     - text: "Project 5"
-      href: ./Projects/Project5.html
+      href: project5.html
     - text: "Project 6"
       href: ./Projects/Project6.html
     - text: "Project 7"
