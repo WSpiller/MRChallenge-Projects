@@ -1,0 +1,38 @@
+---
+title: Project 1
+---
+
+* The pdf can be viewed [here](./Projects/Project1.pdf).
+
+## 1. The role of lipoprotein subfractions in coronary artery disease
+
+*Qingyuan Zhao<sup>1</sup>, Jingshu Wang<sup>1</sup>, Zhen Miao<sup>2</sup>, Nancy Zhang<sup>1</sup>, Sean Hennessy<sup>2</sup>, Dylan Small<sup>1</sup>, and Dan Rader<sup>2</sup>*
+
+<sup>1</sup>Department of Statistics, Wharton School, University of Pennsylvania
+
+<sup>2</sup>Perelman School of Medicine, University of Pennsylvania
+
+### Project Summary
+
+Earlier MR studies (Voight et al. 2012; Zhao, Chen, et al. 2019) found evidence of heterogeneity for the
+effect of HDL cholesterol on coronary artery disease (CAD). In this report, the research question we aim to
+explore is:
+
+**Do lipoprotein subfractions have heterogeneous effects on CAD?**
+
+To answer this question, we will conduct a MR screening study that estimates the causal effect of each
+subfraction on CAD. Some highlighting features of our analysis include:
+
+* Genome-wide three-sample design: This design allows us to utilize insturments that are only
+weakly correlated with the subfraction trait (may not be genome-wide significant). This is crucial
+because usually only a handful of genetic variants have genome-wide significant association with
+subfraction traits.
+
+* State-of-the-art statistical method: We used Robust Adjusted Profile Score (RAPS) which is not
+biased by individually weak instruments, as long as the overall instrument strength is not weak. RAPS
+is also robust to balanced and/or sparse pleiotropy; in particular, RAPS is asymptotically unbiased if
+the InSIDE (INstrument Strength Independent of Direct Effect) assumption is satisfied.
+
+* Multivariate MR: We applied a novel extension of RAPS to multivariate exposures. This allows us
+to assess whether the (potential) effect of any lipoprotein subfraction is independent of the major lipid
+traits (HDL-C, LDL-C, TG).

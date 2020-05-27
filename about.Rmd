@@ -1,0 +1,5 @@
+---
+title: About
+---
+
+This website was built by [Wes Spiller](https://github.com/WSpiller) and [Tom Palmer](https://github.com/remlapmot).

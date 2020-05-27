@@ -1,0 +1,19 @@
+---
+title: "MR Data Challenge 2019: Entries"
+---
+
+A collection of submitted material for the 2019 MR Data Challenge. 
+
+The 2019 MR Data Challenge was a session at the 2019 Mendelian Randomization Conference, held at the University of Bristol.
+
+The data for the MR Data Challenge can be found [here](https://github.com/WSpiller/MRChallenge2019).
+
+The submitted entries were are listed below. They can be viewed by clicking the relevant links above.
+
+1. [The role of lipoprotein subfractions in coronary artery disease. Qingyuan Zhao, Jingshu Wang, Zhen Miao, Nancy Zhang, Sean Hennessy, Dylan Small, and Dan Rader](project1.html)
+2. [Testing instrument strength in two-sample MVMR estimation of lipid traits on AMD and Type 2 diabetes. Eleanor Sanderson and Jack Bowden](project2.html)
+3. [Mendelian Randomization Analysis of the Effect of Blood Lipid Fractions on the Risk of Type 2 Diabetes. Apostolos Gkatzionis](project3.html)
+4. [HDL and age-related macular degeneration. Chin Yang Shapland](project4.html)
+5. [Improving reliability of MR studies testing the effect of molecular phenotypes. Maria Carolina Borges, Philip Haycock, Aroon Hingorani, and Deborah Lawlor](project5.html)
+6. [Investigating the Causal Effect of LDL and HDL on Ischemic Stroke. Okezie Uche-Ikonne, Michael Holmes, Frank Dondelinger, and Tom Palmer](project6.html)
+7. [Examining heterogeneity in effect estimates of HDL-C upon CAD and potential biological mechanisms. Daniel Long and Qingyuan Zhao](project7.html)

@@ -164,12 +164,7 @@ HDL are heterogeneous subpopulations of discrete particles that differ in apolip
 
 ---
 
-
-
-
-
-
-
-
-
-
+To build the website run the following code.
+``` r
+rmarkdown::render_site(encoding = 'UTF-8')
+```

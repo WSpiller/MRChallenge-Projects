@@ -1,0 +1,23 @@
+name: "MRChallenge-Projects"
+output_dir: docs
+navbar:
+  title: "MR Data Challenge 2019 Entries"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Project 1"
+      href: project1.html
+    - text: "Project 2"
+      href: project2.html
+    - text: "Project 3"
+      href: project3.html
+    - text: "Project 4"
+      href: project4.html
+    - text: "Project 5"
+      href: project5.html
+    - text: "Project 6"
+      href: project6.html
+    - text: "Project 7"
+      href: project7.html
+    - text: "About"
+      href: about.html
